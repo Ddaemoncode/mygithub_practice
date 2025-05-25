@@ -10,8 +10,6 @@ def choose_instagramcontent(content_lists):
   
           
 content_lists = ["relatable memes","emotional and relationship" , "edits and aura contents", "anytype at anytime", "mix of all", "something new and unique"]
-something_unique = ["relatable memes","emotional and relationship" , "edits and aura contents", "nyash contents", "anytype at anytime", "mix of all",  "nyash content towards a good point"]
-
 
 choose_a_tiktokcontent(content_lists)
 choose_instagramcontent(content_lists)
